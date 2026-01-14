@@ -2,7 +2,7 @@
 ## Berlin, 2nd of December 2025
 ## exploration and vizualisation of the Magist database answering business questions using SQL and Tableau
 
-This is a collaborative project with Kenny Chikwama targeting the fictive business case study of a spanish tech brands 'ENIAC' is considering entering the brazilian tech market. 
+This is a collaborative project is targeting the fictive business case study of a spanish tech brands 'ENIAC' is considering entering the brazilian tech market. 
 The Question of the case study was if ENIAC should collaborate with the sales distribution website 'Magist'.
 A database of Magist of all bookkeeping from 2016-2018 was used to determine the possible collaboration.
 The key concerned where:
